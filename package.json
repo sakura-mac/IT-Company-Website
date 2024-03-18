@@ -1,8 +1,8 @@
 {
+  "type": "module",
   "devDependencies": {
     "@types/node": "^20.11.28",
     "@vercel/node": "^3.0.1",
-    "typescript": "^5.4.2",
-    "type": "module"
+    "typescript": "^5.4.2"
   }
 }
